@@ -1,5 +1,5 @@
-# powerscriptextensionlibrary-pb2019
-PowerscriptExtensionLibrary for PowerBuilder 2019
+# powerscriptextensionlibrary-pb2021
+PowerscriptExtensionLibrary for PowerBuilder 2021
 
 The goal of the PowerScript #xtension Library is to produce better PowerBuilder code that is :
 
